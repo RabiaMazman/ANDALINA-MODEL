@@ -1,0 +1,9 @@
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\bin\Debug\PerseptronUygulama.exe.config
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\bin\Debug\PerseptronUygulama.exe
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\bin\Debug\PerseptronUygulama.pdb
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\obj\Debug\AndalineUygulama.csprojAssemblyReference.cache
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\obj\Debug\perseptron.Perseptron.resources
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\obj\Debug\PerseptronUygulama.Properties.Resources.resources
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\obj\Debug\AndalineUygulama.csproj.GenerateResource.cache
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\obj\Debug\PerseptronUygulama.exe
+C:\Users\rabis\Desktop\ANDALINEUygulama\AndalineUygulama\obj\Debug\PerseptronUygulama.pdb
